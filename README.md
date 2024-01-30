@@ -20,7 +20,7 @@ Push your changer to your forked repository : git push origin feature-name
 Create a pull request on the original repository
 Await feedback and discussion on your pull request
 
-Sure, let me explain the functions used in your code:
+# **Code explaination**
 
 1. **display_menu()**
    - *Purpose:* Displays the menu options for the Task Manager.
