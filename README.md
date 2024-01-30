@@ -2,13 +2,13 @@
 It is a console-based application that helps you keep track of tasks. You can add, delete, and complete tasks using the command-line interface.
 
 
-How to run the project ?
+# **How to run the project ?**
 
 cd main.py
 python main.py
 
 
-How to contribute ?
+# **How to contribute ?**
 
 Fork the repository on Github.
 Clone your forked repository to your local machine : git clone {URL of the repository}
@@ -20,7 +20,7 @@ Push your changer to your forked repository : git push origin feature-name
 Create a pull request on the original repository
 Await feedback and discussion on your pull request
 
-Sure, let me explain the functions used in your code:
+# **Code explaination**
 
 1. **display_menu()**
    - *Purpose:* Displays the menu options for the Task Manager.
