@@ -5,7 +5,6 @@ It is a console-based application that helps you keep track of tasks. You can ad
 How to run the project ?
 
 cd main.py
-pip install Pillow
 python main.py
 
 
@@ -17,7 +16,7 @@ Create a new branch : git checkout feature-name
 Make your changes and test them
 Commit your changes : git add .
 git commit -m "Description of your changes"
-Push your changer to your forked repository : git pus origin feature-name
+Push your changer to your forked repository : git push origin feature-name
 Create a pull request on the original repository
 Await feedback and discussion on your pull request
 
