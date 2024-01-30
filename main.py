@@ -1,4 +1,4 @@
-todo = []
+todos = []
 # Function to display the menu and get user input
 def display_menu():
     print("\n==== Task Manager ====")
