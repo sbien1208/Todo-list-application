@@ -35,7 +35,7 @@ def delete_task():
 # Main loop
 while True:
     display_menu()
-    choice = input("Enter your choice (1-3): ")
+    choice = input("Enter your choice (1-4): ")
     if choice == "1":
         add_task()
     elif choice == "2":
@@ -46,4 +46,4 @@ while True:
         print("Exiting the Task Manager. Goodbye!")
         break
     else:
-        print("Invalid choice. Please enter a number between 1 and 3.")
+        print("Invalid choice. Please enter a number between 1 and 4.")
