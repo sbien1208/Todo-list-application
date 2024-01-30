@@ -1,10 +1,4 @@
-import os
-import ctypes
-from PIL import Image, ImageDraw, ImageFont,ImageOps,ImageFilter
-import time
-import sys
-
-
+todos = []
 # Function to display the menu and get user input
 def display_menu():
     print("\n==== Task Manager ====")
